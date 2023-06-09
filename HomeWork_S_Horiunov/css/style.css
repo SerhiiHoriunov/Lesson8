@@ -1,0 +1,26 @@
+body {
+    margin-left: 30px;
+}
+
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(51, 112, 233);
+}
+
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(51, 112, 233);;
+}
+
+div {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    font-weight: 500;
+    color: rgb(203, 32, 178);
+    padding-bottom: 1.5em;
+    margin-left: 20px;
+}
+
+div#hook {
+    color: rgb(28, 229, 14);
+}
